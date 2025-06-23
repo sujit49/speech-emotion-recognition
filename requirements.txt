@@ -1,0 +1,7 @@
+streamlit
+librosa
+numpy
+torch
+scikit-learn
+sounddevice
+wavio
